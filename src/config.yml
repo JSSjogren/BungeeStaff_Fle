@@ -1,0 +1,10 @@
+# Use color codes as they appear on this website (In the format &[code])
+# http://minecraft.tools/en/color-code.php
+
+#To use the name of whoever sent the command use {sender}
+#To use the name of whoever was reported use {offender}
+helpop: "&e{sender} &brequested help for: &f"
+
+report: "&e{sender} &bhas reported &e{offender} &bfor: &f"
+
+prefix: "&8[&bStaff&8] "

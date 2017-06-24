@@ -1,0 +1,18 @@
+name: BungeeStaff
+main: com.jarodsjogren.bungeestaff.BungeeStaff
+version: 1.0
+commands:
+  report:
+    description: Sends a report to all staff
+    usage: /report [playername] [message]
+  helpop:
+    description: Sends a help request to all staff
+    usage: /helpop [message]
+  bungeestaff:
+    description: Some commands for the plugin specifically
+    usage: /bungeestaff
+  bs:
+    description: Alias for /bungeestaff
+    usage: /bs
+
+  
